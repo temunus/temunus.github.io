@@ -33,11 +33,3 @@ Skills
 * Front-end: Angular, React.js, Next.js, jQuery, Redux, MUI, Bootstrap 5, Tailwind CSS, Vite, Nx
 * Testing: Unit Test(unittest, PyTest, Jest, MochaJS, Storybook), Integration Test(Selenium), E2E Test(Cypress, NightWatch.js)
 * DevOps: Linux, Docker, Kubernetes, Jenkins, Github Actions, Terraform, Nginx, AWS, GCP, Digital Ocean, Cloudflare, Vercel
-
-Providing Services
-------
-* Web Application Development
-* AI Software Development
-* Mobile Application Development
-* DevOps Engineering
-* Database Administration

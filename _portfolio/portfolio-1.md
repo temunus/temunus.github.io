@@ -1,6 +1,6 @@
 ---
 title: "Hotel Genie"
-excerpt: "Hotel Genie provides customized communication solutions uniquely built for hotels and casinos<br/><img src='/images/portfolios/hotel-genie/home.jpg'>"
+excerpt: "Hotel Genie provides customized communication solutions uniquely built for hotels and casinos.<br/><br/><img src='/images/portfolios/hotel-genie/home.jpg'>"
 collection: portfolio
 ---
 
