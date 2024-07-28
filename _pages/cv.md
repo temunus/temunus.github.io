@@ -10,55 +10,34 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+------
+* B.S. in Computer Science, Northeastern University, China, 2013
 
 Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+------
+* Apr 2023 - Present: Sr. Software Engineer
+  * Freelancing & Consulting
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Oct 2019 - Mar 2023: Full-stack Developer (Remote)
+  * RingCenteral, Dallas, TX
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Aug 2016 - Sep 2019: Full-stack Developer
+  * Neosoft, Shenyang, China
   
 Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+------
+* Programming Languages: Python, Java, JavaScript, TypeScript
+* System Design & Software Architecture: Client-Server, Monolithic, SOA(Microservices, Serverless), CBA(Object-Oriented), DDD, Multi-tenancy
+* Back-end: Django, DRF, Flask, FastAPI, PostgreSQL, MySQL, MongoDB, SQLite, Redis, Firebase
+* Data Science & Machine Learning: NumPy, Pandas, PyTorch, Tensorflow
+* Front-end: Angular, React.js, Next.js, jQuery, Redux, MUI, Bootstrap 5, Tailwind CSS, Vite, Nx
+* Testing: Unit Test(unittest, PyTest, Jest, MochaJS, Storybook), Integration Test(Selenium), E2E Test(Cypress, NightWatch.js)
+* DevOps: Linux, Docker, Kubernetes, Jenkins, Github Actions, Terraform, Nginx, AWS, GCP, Digital Ocean, Cloudflare, Vercel
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+Providing Services
+------
+* Web Application Development
+* AI Software Development
+* Mobile Application Development
+* DevOps Engineering
+* Database Administration
