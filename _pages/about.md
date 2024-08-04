@@ -29,7 +29,7 @@ Providing Services
 * Mobile Application Development
 * DevOps Engineering
 
-Fun facts about me
+Fun Facts About Me
 ------
 * In my free time, I like reading books.
 * Beside the software engineering, I'm also interested in sociology and philosophy
