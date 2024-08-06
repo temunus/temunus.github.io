@@ -32,6 +32,6 @@ Providing Services
 Fun Facts About Me
 ------
 * In my free time, I like reading books.
-* Beside the software engineering, I'm also interested in sociology and philosophy
+* Beside the software engineering, I'm also interested in sociology and philosophy.
 * I'm a crazy soccer fan.
 * I like Pixar cartoons.
