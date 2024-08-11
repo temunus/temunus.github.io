@@ -13,7 +13,7 @@ Education
 ------
 * B.S. in Computer Science, Northeastern University, China, 2013
 
-Work experience
+Work Experience
 ------
 * Apr 2023 - Present: Sr. Software Engineer
   * Freelancing & Consulting
@@ -33,3 +33,7 @@ Skills
 * **Front-end**: Angular, React.js, Next.js, jQuery, Redux, MUI, Bootstrap 5, Tailwind CSS, Vite, Nx
 * **Testing**: Unit Test(unittest, PyTest, Jest, MochaJS, Storybook), Integration Test(Selenium), E2E Test(Cypress, NightWatch.js)
 * **DevOps**: Linux, Docker, Kubernetes, Jenkins, Github Actions, Terraform, Nginx, AWS, GCP, Digital Ocean, Cloudflare, Vercel
+
+Certification
+------
+* HackerRank Certificate: https://www.hackerrank.com/certificates/20a2dfce96b5
