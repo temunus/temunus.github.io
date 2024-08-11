@@ -36,4 +36,4 @@ Skills
 
 Certification
 ------
-* HackerRank Certificate: https://www.hackerrank.com/certificates/20a2dfce96b5
+* HackerRank Certificate: <https://www.hackerrank.com/certificates/20a2dfce96b5>
