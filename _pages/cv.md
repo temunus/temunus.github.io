@@ -26,9 +26,9 @@ Work Experience
   
 Skills
 ------
-* **Programming Languages**: Python, Java, JavaScript, TypeScript
+* **Programming Languages**: Python, Java, JavaScript, TypeScript, C#
 * **System Design & Software Architecture**: Client-Server, Monolithic, SOA(Microservices, Serverless), CBA(Object-Oriented), DDD, Multi-tenancy
-* **Back-end**: Django, DRF, Flask, FastAPI, PostgreSQL, MySQL, MongoDB, SQLite, Redis, Firebase
+* **Back-end**: Django, DRF, Flask, FastAPI, Node.js, NestJS, ExpressJS, ASP.NET, PostgreSQL, MySQL, MongoDB, SQLite, Redis, Firebase
 * **Data Science & Machine Learning**: NumPy, Pandas, PyTorch, Tensorflow
 * **Front-end**: Angular, React.js, Next.js, jQuery, Redux, MUI, Bootstrap 5, Tailwind CSS, Vite, Nx
 * **Testing**: Unit Test(unittest, PyTest, Jest, MochaJS, Storybook), Integration Test(Selenium), E2E Test(Cypress, NightWatch.js)
