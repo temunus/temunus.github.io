@@ -12,9 +12,9 @@ title                    : "Cheng (Patrick) Lin"
 title_separator          : "-"
 name                     : &name "Cheng (Patrick) Lin"
 description              : &description "Freelance Software Engineer"
-url                      : https://temunel.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://temunus.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "temunel/temunel.github.io"
+repository               : "temunus/temunus.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
